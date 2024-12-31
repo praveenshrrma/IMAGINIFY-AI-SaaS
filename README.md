@@ -1,7 +1,12 @@
-
+![gifs (1)](https://github.com/user-attachments/assets/eaf3eea8-9cb0-4168-94c3-eef22cdff9c7)
+![2](https://github.com/user-attachments/assets/6e06ca7b-e0b8-416e-a41e-29449dc90e41)
+![3](https://github.com/user-attachments/assets/46de6a90-0bca-434f-8eab-2d08c02e8248)
+![4](https://github.com/user-attachments/assets/c3d6e123-3908-466e-be4b-763324d09476)
+![5](https://github.com/user-attachments/assets/d96cc004-80a9-4a16-badb-dc56be438703)
+![6](https://github.com/user-attachments/assets/394f20e7-ffdf-4055-9c70-d7f9dcf0cc36)
+![7](https://github.com/user-attachments/assets/29398ef6-f522-4fc6-a322-2664f72a58d2)
 
   <h3 align="center">An AI SaaS Platform</h3>
-
 
 ## 📋 <a name="table">Table of Contents</a>
 
