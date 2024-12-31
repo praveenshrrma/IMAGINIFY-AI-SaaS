@@ -6,11 +6,18 @@
 ![6](https://github.com/user-attachments/assets/394f20e7-ffdf-4055-9c70-d7f9dcf0cc36)
 ![7](https://github.com/user-attachments/assets/29398ef6-f522-4fc6-a322-2664f72a58d2)
 
-<div style="display: flex;">
-  <img src="https://github.com/user-attachments/assets/337af844-d4da-4710-bc64-8a3c9b9bb73d" alt="Image 1" style="width: 49%;" />
-  <img src="https://github.com/user-attachments/assets/b8caea52-5d62-4dbd-92fb-96e2e775cb62" alt="Image 2" style="width: 49%;" />
+<div style="display: flex; flex-wrap: wrap; gap: 0;">
+  <img src="https://github.com/user-attachments/assets/1e06b76d-d91d-49ba-8745-4e5eb1ccb0ee" alt="Image 1" style="width: 49%;" />
+  <img src="https://github.com/user-attachments/assets/81a63ee5-90f2-44d9-a580-54c740b2bad2" alt="Image 2" style="width: 49%;" />
+  <img src="https://github.com/user-attachments/assets/d4f8232a-7913-48da-9bea-25cb55ba815e" alt="Image 3" style="width: 49%;" />
+  <img src="https://github.com/user-attachments/assets/1e7d07bf-2475-44a9-8dc2-0ef10b01e9b7" alt="Image 4" style="width: 49%;" />
+  <img src="https://github.com/user-attachments/assets/a6cb6179-4dc4-49d7-a41f-0eacd9b783e9" alt="Image 5" style="width: 49%;" />
+  <img src="https://github.com/user-attachments/assets/9a0968f6-0fed-4ce5-9593-7d267d7e27a5" alt="Image 6" style="width: 49%;" />
+  <img src="https://github.com/user-attachments/assets/c26f9d0c-6ed9-488e-82da-b98effc54532" alt="Image 7" style="width: 49%;" />
+  <img src="https://github.com/user-attachments/assets/e56ba25c-cdf7-4af9-ae2e-ef22296c9fba" alt="Image 8" style="width: 49%;" />
+  <img src="https://github.com/user-attachments/assets/c6b96071-f034-40f8-8b28-5f9f39db8c99" alt="Image 9" style="width: 49%;" />
+  <img src="https://github.com/user-attachments/assets/c315bdc9-6dd5-48dd-ab1e-afd3a7ef2171" alt="Image 10" style="width: 49%;" />
 </div>
-
 
   <h3 align="center">An AI SaaS Platform</h3>
 
