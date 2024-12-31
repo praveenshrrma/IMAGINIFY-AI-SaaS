@@ -6,9 +6,9 @@
 ![6](https://github.com/user-attachments/assets/394f20e7-ffdf-4055-9c70-d7f9dcf0cc36)
 ![7](https://github.com/user-attachments/assets/29398ef6-f522-4fc6-a322-2664f72a58d2)
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/337af844-d4da-4710-bc64-8a3c9b9bb73d" alt="Image 1" width="49%" />
-  <img src="https://github.com/user-attachments/assets/b8caea52-5d62-4dbd-92fb-96e2e775cb62" alt="Image 2" width="49%" />
+<div style="display: flex;">
+  <img src="https://github.com/user-attachments/assets/337af844-d4da-4710-bc64-8a3c9b9bb73d" alt="Image 1" style="width: 50%;" />
+  <img src="https://github.com/user-attachments/assets/b8caea52-5d62-4dbd-92fb-96e2e775cb62" alt="Image 2" style="width: 50%;" />
 </div>
 
 
