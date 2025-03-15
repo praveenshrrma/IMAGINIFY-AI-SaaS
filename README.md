@@ -1,22 +1,34 @@
-![gifs (1)](https://github.com/user-attachments/assets/eaf3eea8-9cb0-4168-94c3-eef22cdff9c7)
-![2](https://github.com/user-attachments/assets/6e06ca7b-e0b8-416e-a41e-29449dc90e41)
-![3](https://github.com/user-attachments/assets/46de6a90-0bca-434f-8eab-2d08c02e8248)
-![4](https://github.com/user-attachments/assets/c3d6e123-3908-466e-be4b-763324d09476)
-![5](https://github.com/user-attachments/assets/d96cc004-80a9-4a16-badb-dc56be438703)
-![6](https://github.com/user-attachments/assets/394f20e7-ffdf-4055-9c70-d7f9dcf0cc36)
-![7](https://github.com/user-attachments/assets/29398ef6-f522-4fc6-a322-2664f72a58d2)
+<img src="images/1.gif" alt="GIF 1" width="100%"/>
+<img src="images/2.gif" alt="GIF 2" width="100%"/>
 
-<div style="display: flex; flex-wrap: wrap; gap: 0;">
-  <img src="https://github.com/user-attachments/assets/1e06b76d-d91d-49ba-8745-4e5eb1ccb0ee" alt="Image 1" style="width: 49%;" />
-  <img src="https://github.com/user-attachments/assets/81a63ee5-90f2-44d9-a580-54c740b2bad2" alt="Image 2" style="width: 49%;" />
-  <img src="https://github.com/user-attachments/assets/d4f8232a-7913-48da-9bea-25cb55ba815e" alt="Image 3" style="width: 49%;" />
-  <img src="https://github.com/user-attachments/assets/1e7d07bf-2475-44a9-8dc2-0ef10b01e9b7" alt="Image 4" style="width: 49%;" />
-  <img src="https://github.com/user-attachments/assets/a6cb6179-4dc4-49d7-a41f-0eacd9b783e9" alt="Image 5" style="width: 49%;" />
-  <img src="https://github.com/user-attachments/assets/9a0968f6-0fed-4ce5-9593-7d267d7e27a5" alt="Image 6" style="width: 49%;" />
-  <img src="https://github.com/user-attachments/assets/c26f9d0c-6ed9-488e-82da-b98effc54532" alt="Image 7" style="width: 49%;" />
-  <img src="https://github.com/user-attachments/assets/e56ba25c-cdf7-4af9-ae2e-ef22296c9fba" alt="Image 8" style="width: 49%;" />
-  <img src="https://github.com/user-attachments/assets/c6b96071-f034-40f8-8b28-5f9f39db8c99" alt="Image 9" style="width: 49%;" />
-  <img src="https://github.com/user-attachments/assets/c315bdc9-6dd5-48dd-ab1e-afd3a7ef2171" alt="Image 10" style="width: 49%;" />
+<img src="images/3.gif" alt="GIF 3" width="100%"/>
+<img src="images/4.gif" alt="GIF 4" width="100%"/>
+
+<img src="images/5.gif" alt="GIF 5" width="100%"/>
+<img src="images/6.gif" alt="GIF 6" width="100%"/>
+
+<img src="images/7.gif" alt="GIF 7" width="100%"/>
+
+
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/1.jpg" alt="Image 1" width="49%">
+  <img src="images/2.jpg" alt="Image 2" width="49%">
+</div>
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/3.jpg" alt="Image 3" width="49%">
+  <img src="images/4.jpg" alt="Image 4" width="49%">
+</div>
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/5.jpg" alt="Image 5" width="49%">
+  <img src="images/6.jpg" alt="Image 6" width="49%">
+</div>
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/7.jpg" alt="Image 7" width="49%">
+  <img src="images/8.jpg" alt="Image 8" width="49%">
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="images/9.jpg" alt="Image 9" width="49%">
+  <img src="images/10.jpg" alt="Image 10" width="49%">
 </div>
 
   <h3 align="center">An AI SaaS Platform</h3>
